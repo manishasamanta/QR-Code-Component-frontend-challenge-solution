@@ -40,13 +40,17 @@ img{
   border-radius: 4%;
 }
 
+
 .first-text{
-  font-size: 1.5rem;
-  font-weight: 700;
-  color:hsl(218, 44%, 22%);
   padding: 0  2%;
 
 }
+h1{
+  font-size: 1.5rem;
+  font-weight: 700;
+  color:hsl(218, 44%, 22%);
+}
+
 .second-text{
   color:hsl(220, 15%, 55%);
   font-weight: 400;
