@@ -77,5 +77,11 @@ footer a {
     width: 70%;
     padding: 5%;
   }
+     h1{
+    font-size: 1.3rem;
+  }
+  .second-text{
+    font-size: 1rem;
+  }
 
 }
