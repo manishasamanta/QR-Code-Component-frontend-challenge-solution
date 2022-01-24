@@ -71,3 +71,11 @@ footer {
 footer a {
   color: hsl(228, 45%, 44%);
 }
+
+@media (max-width:500px) {
+  .box{
+    width: 70%;
+    padding: 5%;
+  }
+
+}
